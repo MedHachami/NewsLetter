@@ -1,8 +1,3 @@
-# Projet de Plateforme Web - Résumé
-
-## Contexte
-
-Notre client, une entreprise en pleine croissance dans le secteur de la communication et du marketing, a identifié un besoin crucial de centraliser et rationaliser ses opérations en ligne. Dans cette optique, l'entreprise a entrepris le développement d'une plateforme web interne avec des fonctionnalités avancées visant à améliorer la communication, la gestion de l'information et la collaboration au sein de son équipe.
 
 ## Stack Technologique
 
