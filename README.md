@@ -35,22 +35,6 @@ Le développement de cette plateforme a été réalisé en utilisant les technol
 - Conception d'une base de données permettant de prendre en charge trois rôles distincts : Administrateur, Rédacteur, Membre.
 - Chaque rôle dispose de tables et de relations spécifiques, assurant une séparation claire des données et des responsabilités au sein de la plateforme.
 
-## Screens à Présenter
-
-En tant que développeur, je prévois de créer et de présenter des captures d'écran pour les différentes parties de l'application, notamment :
-- **Admin Dashboard**
-  ![Admin Dashboard](./Docs/admin_dash.png)
-
-
-- **Editor Dashboard**
-  ![editor Dashboard](./Docs/editor_dash.png)
-
-- **Client Page**
-  ![client page](./Docs/client.png)
-
-
-Ces écrans illustreront visuellement l'interface utilisateur et les fonctionnalités spécifiques de chaque tableau de bord et de la page client.
-
 ## Getting Started
 
 These instructions will help you set up and run the project on your local machine.
